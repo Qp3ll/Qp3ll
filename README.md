@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc0eDJvN3R1NjRtY29uendqYjBzbnNob3BkcjAxNDRlc3RkMHd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Qp3ll/Qp3ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
